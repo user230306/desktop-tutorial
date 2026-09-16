@@ -1,5 +1,15 @@
-# Welcome to GitHub Desktop!
+# 📊 Data Analytics Portfolio
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This repository contains data analytics projects showcasing Python, SQL, and Data Visualization skills.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## 🚀 Projects Included
+
+### 1. Telco Customer Churn Analysis (`notebook932861d01c.ipynb`)
+* **Tech Stack:** Python, Pandas, Seaborn, Matplotlib
+* **Key Focus:** Exploratory Data Analysis (EDA), customer segmentation, and retention strategy insights.
+* **Findings:** Identified that month-to-month subscribers have a 42% churn rate and the highest risk occurs within the first 12 months.
+
+### 2. E-Commerce SQL Analytics & Sales Forecasting (`notebookf457a470b6.ipynb`)
+* **Tech Stack:** SQL (SQLite), Pandas, Matplotlib, Seaborn
+* **Key Focus:** Multi-table JOINs, CTEs, Window Functions (LAG, NTILE), and trend analysis.
+* **Findings:** Evaluated Month-over-Month (MoM) revenue growth and segmented top-performing customer geographic locations.
